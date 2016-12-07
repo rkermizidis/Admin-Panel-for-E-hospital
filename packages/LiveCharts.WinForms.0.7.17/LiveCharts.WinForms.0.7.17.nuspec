@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>LiveCharts.WinForms</id>
+    <version>0.7.17</version>
+    <title>LiveCharts.WinForms</title>
+    <authors>Beto Rodriguez</authors>
+    <owners>Beto Rodriguez</owners>
+    <licenseUrl>https://github.com/beto-rodriguez/Live-Charts/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>http://lvcharts.net/</projectUrl>
+    <iconUrl>http://lvcharts.net/Content/Images/Logos/lcred.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>LiveCharts is a modern chartig library: Responsive, animated and MVVM orientated charts</description>
+    <summary />
+    <releaseNotes>See https://github.com/beto-rodriguez/Live-Charts/releases</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Chart Charting Plot Plotting WinForms</tags>
+    <dependencies>
+      <dependency id="LiveCharts" version="0.7.17" />
+      <dependency id="LiveCharts.Wpf" version="0.7.17" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.0.3" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.0.3" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.0.3" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.0.3" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.0.3" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.5.1" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.6" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="WindowsFormsIntegration" targetFramework=".NETFramework4.6.1" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

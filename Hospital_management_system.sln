@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital_management_system", "Hospital_management_system\Hospital_management_system.csproj", "{240E8A8B-4CA7-4961-9FBF-93F4C713E9AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{CE8B2CBF-BED1-4BA4-8220-FE851416D885}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{240E8A8B-4CA7-4961-9FBF-93F4C713E9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{240E8A8B-4CA7-4961-9FBF-93F4C713E9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{240E8A8B-4CA7-4961-9FBF-93F4C713E9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{240E8A8B-4CA7-4961-9FBF-93F4C713E9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
